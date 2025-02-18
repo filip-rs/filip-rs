@@ -15,11 +15,10 @@ Here are some ideas to get you started:
 -->
 # Hi there, I'm Filip R. Spanne! 👋
 
-Welcome to my GitHub profile! Here you'll find projects related to various technologies that I work with. I enjoy exploring new challenges and building awesome stuff. 🚀
-
+I started coding in 8th grade with Python and Arduino. Now I mainly focus on C++, Python and bash, while also making website occasionally. I've been using linux for around 6 years now.
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Technologies & Languages
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
@@ -50,12 +49,9 @@ Welcome to my GitHub profile! Here you'll find projects related to various techn
 
 ---
 
-## 📫 Get in Touch
+## 📫 Get in touch
 
 - LinkedIn: [Filip R. Spanne](https://www.linkedin.com/in/spanne/)
 - Email: [filip.spanne@gmail.com](mailto:filip.spanne@gmail.com)
 
 ---
-
-Have a great day!
-
