@@ -41,9 +41,9 @@ Welcome to my GitHub profile! Here you'll find projects related to various techn
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=filip-rs&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=filip-rs&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=filip-rs&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=filip-rs&layout=compact&theme=tokyonight)
 
 ---
 
