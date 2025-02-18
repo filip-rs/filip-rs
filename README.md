@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi there, I'm Filip R. Spanne! 👋
-
+---
 I started coding in 8th grade with Python and Arduino. Now I mainly focus on C++, Python and bash, while also making website occasionally. I've been using linux for around 6 years now.
 ---
 
