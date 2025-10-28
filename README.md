@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 ## 📂 Projects
 
 - **Finn.no listings scraper:** Python script using beautifulsoup to scrape data from the website finn.no. Formatting listings to json happens dynamically using openAI GPT-3.5. [finn-scraper repository](https://github.com/filip-rs/finn-scraper)
+- **Demand driven staffing:** Fullstack automatic workforce scheduler built for the Start Code 2025 hackathon. Large collaboration project together with @SverreNystad, @TheodorSTTH and @tobiasfremming [HVEM repository](https://github.com/filip-rs/demand-driven-staffing)
+
 - **RGBcodle:** Basic web browser game about guessing the correct colour using RGB format. Provides hints and is responsive with good mobile UI support. [rgbcodle repository](https://github.com/filip-rs/rgbcodle)
 
 ---
