@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 ## 📈 GitHub Stats
 
-![Top Languages](https://stats.filiprs.no/api/top-langs?username=filip-rs&layout=compact&theme=tokyonight)
+![Top Languages](https://stats.filiprs.no/api/top-langs?username=filip-rs&layout=compact&theme=transparent)
 
 ---
 
