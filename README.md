@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🛠️ Technologies n such
+## Technologies n such
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 📂 Projects
+## Projects
 
 - **Finn.no listings scraper:** Python script using beautifulsoup to scrape data from the website finn.no. Formatting listings to json happens dynamically using openAI GPT-3.5. [finn-scraper repository](https://github.com/filip-rs/finn-scraper)
 - **Demand driven staffing:** Fullstack automatic workforce scheduler built for the Start Code 2025 hackathon. Large collaboration project together with @SverreNystad, @TheodorSTTH and @tobiasfremming [HVEM repository](https://github.com/filip-rs/demand-driven-staffing)
@@ -39,13 +39,13 @@ Here are some ideas to get you started:
 
 ---
 
-## 📈 GitHub Stats
+## Stats
 
 ![Top Languages](https://stats.filiprs.no/api/top-langs?username=filip-rs&layout=compact&theme=transparent)
 
 ---
 
-## 📫 Get in touch
+## Get in touch
 
 - LinkedIn: [Filip R. Spanne](https://www.linkedin.com/in/spanne/)
 - Email: [filip.spanne@gmail.com](mailto:filip.spanne@gmail.com)
