@@ -41,8 +41,6 @@ Here are some ideas to get you started:
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=filip-rs&show_icons=true&theme=tokyonight)
-
 ![Top Languages](https://stats.filiprs.no/api/top-langs?username=filip-rs&layout=compact&theme=tokyonight)
 
 ---
