@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 - **Finn.no listings scraper:** Python script using beautifulsoup to scrape data from the website finn.no. Formatting listings to json happens dynamically using openAI GPT-3.5. [finn-scraper repository](https://github.com/filip-rs/finn-scraper)
 - **Demand driven staffing:** Fullstack automatic workforce scheduler built for the Start Code 2025 hackathon. Large collaboration project together with @SverreNystad, @TheodorSTTH and @tobiasfremming [HVEM repository](https://github.com/filip-rs/demand-driven-staffing)
 
-- **RGBcodle:** Basic web browser game about guessing the correct colour using RGB format. Provides hints and is responsive with good mobile UI support. [rgbcodle repository](https://github.com/filip-rs/rgbcodle)
+- **Kaligo:** Advanced Telegram selfbot with a ton of features. Forked from Caligo, updated and added more features including message logging, message scheduling, direct math evaluation for messages, docker compose deployent and I currently maintain it. [kaligo repository](https://github.com/filip-rs/kaligo)
 
 ---
 
